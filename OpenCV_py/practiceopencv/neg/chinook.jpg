@@ -1,0 +1,318 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><!-- #BeginTemplate "/Templates/bearcreek.dwt" --><!-- DW6 -->
+<head>
+	<meta name="Classification" content="Wildlife, Exotic Animals, Sanctuary, Conservation">
+	<meta name="Description" content="Bear Creek Exotic Wildlife Sanctuary, Barrie, Ontario. We are a volunteer driven non-profit organization dedicated to the survival of rare and endangered species. 
+	We provide a safe haven for unwanted, abused and injured exotic and zoo surplus animals. At Bear Creek we house over 100 animals, some of which are the most beautiful and most rare species from around the world. ">
+	<meta name="keywords"
+			content="Wildlife, Wildlife Sanctuary, Exotic Animals, Sanctuary, Rescue, Conservation, Lions, African Lions, Tigers, Siberian Tigers, Bears, Wolves, Extinct, Extinction, Barrie, Toronto, Ontario, Canada">
+	<meta name="MSSmartTagsPreventParsing" content="TRUE">
+	<meta name="ROBOTS" content="NOARCHIVE">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="EXPIRES" CONTENT="0">
+	<!-- #BeginEditable "doctitle" -->
+	<title>Bear Creek Sanctuary - About</title>
+	<!-- #EndEditable -->
+	<link rel="shortcut icon" href="images/miscellaneous/tiny_nadi.ico"/>
+	<link rel="icon" href="images/miscellaneous/tiny_nadi.png" type="image/png"/>
+	<!--[if IE]>
+			<style type="text/css">
+			body { 
+			behavior:           url( "css/csshover3.htc" );
+			}
+			</style>
+		<![endif]-->
+	<link rel="stylesheet" media="all" type="text/css" href="css/pagelayout.css" />
+	<link rel="stylesheet" media="all" type="text/css" href="css/menus.css" />
+	<link rel="stylesheet" media="all" type="text/css" href="css/styles.css" />
+</head>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15220326-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<body>
+	<div id="outer-wrapper">
+		<table width="1022" border="0" cellspacing="0" cellpadding="0" bordercolor="#333333"> 
+			<tr>
+				<td width="220" rowspan="2" height="231" align="left" valign="middle">
+					<div align="center">
+						<p>
+							<a href="index.htm">
+								<img src="images/miscellaneous/logos/logo_200_px.png" width="200" height="200" alt=""/>
+							</a>
+					  </p>
+						<p><img src="images/Buttons/celebrating_31_years.jpg" width="220" height="38" alt=""/><br>
+					  </p>
+					</div>
+				</td>
+				<td width="804" height="49">
+					<div align="center">
+						<img src="images/miscellaneous/extincttext_sm.jpg" width="411" height="38">
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="804" height="181" align="center" valign="middle">
+					<div class="eyes">
+						<!-- #BeginEditable "eyes" --><img src="images/Nameplates New/about_nameplatet_new.jpg" width="750" height="75" alt=""/><!-- #EndEditable -->
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="left">
+					<img src="images/miscellaneous/tigerfurbar.jpg" width="1024" height="15">
+				</td>
+			</tr>
+			<tr>
+				<td width="220"/>
+				
+				<td colspan="1">
+					<div id="menudiv">
+						<div class="menu">
+							<ul>
+								<li> 
+									<div>
+									    <a href="index.htm" title="About"> About </a>
+									</div>		
+								</li>
+								<li>
+									<div>
+										<a href="whatsnew.htm" title="What's New"> What's New </a>
+									</div>
+								</li>
+                                <li>
+									<div>
+										<a href="tours.htm" title="Tours"> Tours </a>
+									</div>
+								</li>
+								<li class="drop">
+									<div>
+									<a href="#" title="Our Animals">Our Animals</a>
+									<!--[if IE 7]><!-->
+										</div>
+										<!--<![endif]-->
+									<!--[if lte IE 6]><table><tr><td><![endif]-->
+									<ul>
+										<li class="top fly">
+											<div>
+											<a href="#" title="Felines"> Felines </a>
+											<!--[if IE 7]><!-->
+												</div>
+												<!--<![endif]-->
+											<!--[if lte IE 6]><table><tr><td><![endif]-->
+											<ul>
+												<li class="top">
+													<div>
+														<a href="jaglions.htm" title="Jaglions"> Jaglions </a>													
+													</div>
+														
+												</li>
+												<li class="middle">
+													<div>
+													    <a href="tigers_page_new.htm" title="Tigers"> Tigers </a>
+													</div>														
+												</li>
+												<li class="middle">
+													<div>
+													    <a href="lions_page_new.htm" title="Lions"> Lions </a>
+													</div>														
+												</li>
+												<li class="middle">
+													<div>
+													    <a href="cougars_page_new.htm" title="Cougars"> Cougars </a>
+													</div>
+												</li>
+												<li class="middle">
+													<div>
+													    <a href="jaguars_page_new.htm" title="Jaguars"> Jaguars </a>
+													</div>
+												</li>
+												<li class="bottom">
+													<div>
+													    <a href="small_cats.htm" title="Small Cats"> Small Cats </a>
+													</div>								
+												</li>
+											</ul>
+											<!--[if lte IE 6]></td></tr></table></div><![endif]-->
+										</li>
+										<li class="middle fly">
+											<div>
+											<a href="#" title="Canines"> Canines </a>
+											<!--[if IE 7]><!-->
+												</div>
+												<!--<![endif]-->
+											<!--[if lte IE 6]><table><tr><td><![endif]-->
+											<ul>
+												<li class="top">
+													<div>
+													    <a href="wolves_page_new.htm" title="Wolves"> Wolves </a>
+													</div>
+												</li>
+												<li class="bottom">
+													<div>
+													    <a href="foxes_page_new.htm" title="Foxes"> Foxes </a>
+													</div>
+												</li>
+											</ul> 
+											<!--[if lte IE 6]></td></tr></table></div><![endif]-->
+										</li>
+										<li class="middle">
+											<div>
+											    <a href="primates_page_new.htm" title="Primates"> Primates </a>
+											</div>	
+										</li>
+                                        <li class="middle">
+											<div>
+											    <a href="bears_page_new.htm" title="Bears"> Bears </a>
+											</div>	
+										</li>
+                                        <li class="middle">
+											<div>
+											    <a href="raptors.htm" title="Bears"> Raptors </a>
+											</div>	
+										</li>
+										<li class="bottom">
+											<div>
+											    <a href="other_animals_page_new.htm" title="Other"> Other </a>
+											</div>
+										</li>
+									</ul>
+									<!--[if lte IE 6]></td></tr></table></div><![endif]-->
+								</li>
+                                <li>
+									<div>
+										<a href="sponsor_animal.htm" title="Sponsor an Animal"> Sponsor an Animal </a>
+									</div>
+								</li>
+                                <li>
+									<div>
+										<a href="rehab.htm" title="Rehab"> Rehab </a>
+									</div>
+								</li>
+                                <li>
+									<div>
+										<a href="donate_now.htm" title="Donate"> Donate </a>
+									</div>
+								</li>                               								
+								<li class="drop">
+									<div>
+								        <a href="programs.htm" title="Programs"> Programs </a>
+									</div>
+										
+								</li>
+								<li>
+									<div>
+									    <a href="contact.htm" title="Contact">Contact</a>
+                                    </div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="left">
+					<img src="images/miscellaneous/tigerfurbar.jpg" width="1024" height="15">
+				</td>
+			</tr>
+			<tr>
+				<td width="220" align="center" class="leftsidebar">
+					<br>
+					<p>
+					We are located just west of
+					Barrie, Ontario, Canada
+					</p>
+					<hr>
+					<p>
+						We are a volunteer driven Private Foundation Registered Charity, dedicated to the survival of rare and endangered species. We are also involved in humane wildlife rescue and rehabilitation of
+						animals and  we provide a safe haven for unwanted, abused and injured exotic and zoo surplus animals.
+					</p>	
+					<hr>
+                    <p>                   
+                    	Donate through
+						<br>
+                    	CanadaHelps.org                                                            
+                    </p>
+					<p>
+					  <a href="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109205">
+					  <img src="https://www.canadahelps.org/image/DonateNowLink/en/Donate2.png" alt="Donate Now powered by CanadaHelps.org" width="165" height="67" border="0"/>
+					  </a>
+					</p>
+                    <p>
+						<a href="https://www.canadahelps.org/CharityProfilePage.aspx?Language=fr&CharityID=d109205">
+							<img src="https://www.canadahelps.org/image/DonateNowLink/fr/Donate2.png" alt="Faire un don maintenant par CanadaHelps.org!" width="165" height="67"/>
+						</a>
+					</p>
+		  		  <h3>&nbsp;</h3>
+			  </td>
+				<td valign="top" rowspan="11" width="804" bordercolor="#000000">
+					<table width="100%">
+						<tr>
+							<td>
+								<div align="center">
+									<br/>
+									<!-- #BeginEditable "body" -->
+								<div align="center">
+								  <p>&nbsp;</p>
+								  <p><img src="images/Raptors/rufus_fly_sponsorship.jpg" width="600" height="314" alt=""/></p>
+								  <p><strong>Need a special gift for a special person? SPONSOR A <br>
+								    BEAR CREEK ANIMAL for them! 
+								    Check out our <a href="sponsor_animal.htm">Sponsorship Page</a> for details and <br>
+								    go see 
+								    our <a href="sponsorships_recent.htm">current holiday sponsorships</a></strong></p>
+                                  <p><strong>We also have an Amazon.ca Wish List! You can shop for our animals and everything is delivered <br>
+                                    right to us. <a href="https://www.amazon.ca/gp/registry/wishlist/2SZYJ70GUEL9Q/ref=cm_sw_em_r_wsg_q2tDybDW0KJMT_wf">Go to our Amazon.ca Wish List</a></strong></p>
+                                  <p><strong>To make a donation directly to Bear Creek Exotic Wildliife Sanctuary<br>
+                                    please see our <a href="donate_now.htm">Donation Page </a></strong><br>
+                                  </p>
+                                  <hr>
+                                  <p><font size="3" face="Arial, Helvetica, sans-serif">Bear Creek Exotic Wildlife Sanctuary in Barrie, Ontario, Canada, was founded in 1989 by Werner Ebner. </font>
+								    <font face="Arial, Helvetica, sans-serif">
+							        We are a volunteer driven Private Foundation Registered Charity. We provide a safe haven for unwanted, abused and injured exotic and zoo surplus animals. We are authorized wildlife custodians through the Ministry of Natural Rescouces and Forestry. We rehabilitate injured, orphaned and indigenous wildlife.								For many of the animals here,
+							      Bear Creek was the last resort prior to euthanasia. </font> </p>
+								  <p>You can donate to Bear Creek through our PayPal account, through our Canada Helps account, and through<br>
+Interac E-transfer. Links are  on our <a href="donate_now.htm">Donate page.</a></p>
+								  <p><a href="https://www.amazon.ca/gp/registry/wishlist/2SZYJ70GUEL9Q/ref=cm_sw_em_r_wsg_q2tDybDW0KJMT_wf"><img src="images/Christmas 2020/wish_list_banner_2020.jpg" width="450" height="148" alt=""/></a></p>
+								  <p>We have a Wish List on Amazon.ca. You can order toys and supplies for our animals and staff, <br>
+								    and Amazon ships directly to us! <a href="https://www.amazon.ca/gp/registry/wishlist/2SZYJ70GUEL9Q/ref=cm_sw_em_r_wsg_q2tDybDW0KJMT_wf">Go see!</a><br>
+							      </p>
+									<hr>
+									<p>&nbsp;</p>
+									<table width="561">
+									  <tr>
+									    <td width="155" align="center"><img src="images/miscellaneous/anniversary_band/boo.jpg" width="100" height="100" alt="BooBoo - Black Bear"></td>
+									    <td width="155" align="center"><img src="images/miscellaneous/anniversary_band/quiko.jpg" width="100" height="100" alt=""/></td>
+									    <td width="155" align="center"><img src="images/miscellaneous/anniversary_band/hunter.jpg" width="100" height="100" alt=""/></td>
+									    <td width="155" align="center"><img src="images/miscellaneous/anniversary_band/kamen.jpg" width="100" height="100" alt=""/></td>
+									    <td width="96" align="center"><img src="images/miscellaneous/anniversary_band/bwana.jpg" width="100" height="100" alt=""/></td>
+								      </tr>
+								  </table>
+                                    <p><font size="3" face="Arial, Helvetica, sans-serif"><span class="large">Thank you for taking care of us Werner and Mary!</span></font></p>
+								</div>
+								  <!-- #EndEditable -->
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="copyright">
+									<hr>
+									<p>All images and content in this website are Copyright protected &copy; 2004-2020, Bear Creek Exotic Wildlife Sanctuary, <br>
+									All Rights Reserved.<br/>
+									Any unauthorized use of images or content from this site will be prosecuted.								    </p>
+								</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!-- #BeginEditable "scripts" --> <!-- #EndEditable -->
+</body>
+<!-- #EndTemplate --></html>
